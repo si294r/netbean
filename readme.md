@@ -1,6 +1,6 @@
 ## Download versi portable (Binary Zip)
 
-  * Apache Netbeans : [https://netbeans.apache.org/download/nb113/nb113.html](https://netbeans.apache.org/download/nb113/nb113.html)
+  * Apache Netbeans : [https://netbeans.apache.org/download/nb110/nb110.html](https://netbeans.apache.org/download/nb110/nb110.html)
 
   * Apache Tomcat : [https://tomcat.apache.org/download-90.cgi](https://tomcat.apache.org/download-90.cgi)
 
