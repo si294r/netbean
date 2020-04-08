@@ -1,3 +1,15 @@
+## Download versi portable (Binary Zip)
+
+  * Apache Netbeans : [https://netbeans.apache.org/download/nb113/nb113.html](https://netbeans.apache.org/download/nb113/nb113.html)
+
+  * Apache Tomcat : [https://tomcat.apache.org/download-90.cgi](https://tomcat.apache.org/download-90.cgi)
+
+## Limit Memory Usage Netbean
+
+  * Update file [Dir Netbean Portable]/etc/netbeans.conf
+
+![Image](https://raw.githubusercontent.com/si294r/netbean/master/netbeans.conf.png)
+
 ## Tools > Options > Java > Maven
 
 ![Image](https://raw.githubusercontent.com/si294r/netbean/master/tools-options-java-maven.png)
