@@ -1,3 +1,7 @@
+## Prerequisite
+
+  * JDK 1.8
+
 ## Download versi portable (Binary Zip)
 
   * Apache Netbeans : [https://netbeans.apache.org/download/nb110/nb110.html](https://netbeans.apache.org/download/nb110/nb110.html)
@@ -38,6 +42,6 @@
 
 ![Image](https://raw.githubusercontent.com/si294r/netbean/master/project-properties-run.png)
 
-## PROBLEM cannot rum cmd !!!
+## PROBLEM cannot run cmd !!!
 
 [https://stackoverflow.com/questions/58445540/netbeans-9-10-11-cannot-run-program-cmd](https://stackoverflow.com/questions/58445540/netbeans-9-10-11-cannot-run-program-cmd)
