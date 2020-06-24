@@ -37,3 +37,7 @@
 ## Project > Properties > Run
 
 ![Image](https://raw.githubusercontent.com/si294r/netbean/master/project-properties-run.png)
+
+## PROBLEM cannot rum cmd !!!
+
+[https://stackoverflow.com/questions/58445540/netbeans-9-10-11-cannot-run-program-cmd](https://stackoverflow.com/questions/58445540/netbeans-9-10-11-cannot-run-program-cmd)
