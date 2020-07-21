@@ -45,3 +45,5 @@
 ## PROBLEM cannot run cmd !!!
 
 [https://stackoverflow.com/questions/58445540/netbeans-9-10-11-cannot-run-program-cmd](https://stackoverflow.com/questions/58445540/netbeans-9-10-11-cannot-run-program-cmd)
+
+![Image](https://raw.githubusercontent.com/si294r/netbean/master/problem_cannot_run_cmd.png)
