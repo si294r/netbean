@@ -4,7 +4,9 @@
 
 ## Download versi portable (Binary Zip)
 
-  * Apache Netbeans : [https://netbeans.apache.org/download/nb110/nb110.html](https://netbeans.apache.org/download/nb110/nb110.html)
+  * Apache Netbeans 12 (Recommended) : [https://netbeans.apache.org/download/nb120/nb120.html](https://netbeans.apache.org/download/nb120/nb120.html)
+ 
+  * or Apache Netbeans 11 (Old but still work) : [https://netbeans.apache.org/download/nb110/nb110.html](https://netbeans.apache.org/download/nb110/nb110.html)
 
   * Apache Tomcat : [https://tomcat.apache.org/download-90.cgi](https://tomcat.apache.org/download-90.cgi)
 
@@ -41,6 +43,27 @@
 ## Project > Properties > Run
 
 ![Image](https://raw.githubusercontent.com/si294r/netbean/master/project-properties-run.png)
+
+## Speed up debug time
+
+Find file catalina.bat in your tomcat folder (ex: D:\apache-tomcat-8.5.53\bin\catalina.bat), then add command to delete project alamisharia deployment 
+right after line setlocal
+
+```
+rem   TITLE           (Optional) Specify the title of Tomcat window. The default
+rem                   TITLE is Tomcat if it's not specified.
+rem                   Example (all one line)
+rem                   set TITLE=Tomcat.Cluster#1.Server#1 [%DATE% %TIME%]
+rem ---------------------------------------------------------------------------
+
+setlocal
+
+del "%cd%\..\conf\Catalina\localhost\alamisharia.xml"
+
+```
+this will skip undeployment process and speed up debug time
+
+
 
 ## PROBLEM cannot run cmd !!!
 
