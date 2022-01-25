@@ -28,6 +28,10 @@
 
 ![Image](https://raw.githubusercontent.com/si294r/netbean/master/tools-options-editor-formatting.png)
 
+## Tools > Options > Editor > Code Completion
+
+![Image](https://raw.githubusercontent.com/si294r/netbean/master/tools-options-editor-codecompletion.png)
+
 ## Tools > Plugins > Available Plugins > NB SpringBoot
 
 ![Image](https://raw.githubusercontent.com/si294r/netbean/master/tools-plugins-springboot.png)
